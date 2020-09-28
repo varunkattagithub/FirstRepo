@@ -1,7 +1,6 @@
-#include <iostream>
-using namespace std;
-int main(){
-count<<"varun katta";
-return 0;
-
+#include <stdio.h>
+{
+  printf("FirstGitCommit");
+  return 0;
 }
+
